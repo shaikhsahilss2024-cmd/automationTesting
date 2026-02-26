@@ -1,0 +1,9 @@
+RestAssured
+
+
+Http methods
+
+get
+post
+put
+delete
